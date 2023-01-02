@@ -21,7 +21,7 @@ As a full stack developer and creator, I am constantly seeking out new opportuni
     <tr>
       <td><a href="https://app.netlify.com/sites/illustrious-froyo-1c4560/overview" target="_blank"><b>Todo List App ✅<b></a></td>
       <td><a href="https://github.com/tinashe-gutu/to-do-list-frontend"><b>React, TypeScript</b></a></td>
-      <td><a href="https://github.com/tinashe-gutu/to-do-list-backend><b>Express Node.js</b></a></td>
+      <td><a href="https://github.com/tinashe-gutu/to-do-list-backend"><b>Express Node.js</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
     <tr>
