@@ -18,6 +18,12 @@ As a full stack developer and creator, I am constantly seeking out new opportuni
   </thead>
   <tbody>
   <tbody align="center">
+     <tr>
+      <td><a href="" target="_blank"><b>Rainbow Machines<b></a></td>
+      <td><a href="https://youtu.be/hHiwJLfzQRc"><b>HTML,CSS Javascript</b></a></td>
+      <td><a href="https://github.com/tinashe-gutu/Rainbow"><b>Python, Flask</b></a></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
     <tr>
       <td><a href="https://illustrious-froyo-1c4560.netlify.app/" target="_blank"><b>Todo List App ✅<b></a></td>
       <td><a href="https://github.com/tinashe-gutu/to-do-list-frontend"><b>React, TypeScript</b></a></td>
