@@ -19,8 +19,8 @@ As a full stack developer and creator, I am constantly seeking out new opportuni
   <tbody>
   <tbody align="center">
      <tr>
-      <td><a href="" target="_blank"><b>Rainbow Machines<b></a></td>
-      <td><a href="https://youtu.be/hHiwJLfzQRc"><b>HTML,CSS Javascript</b></a></td>
+      <td><a href="https://youtu.be/hHiwJLfzQRc" target="_blank"><b>Rainbow Machines<b></a></td>
+      <td><a href="https://github.com/tinashe-gutu/Rainbow"><b>HTML,CSS Javascript</b></a></td>
       <td><a href="https://github.com/tinashe-gutu/Rainbow"><b>Python, Flask</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
