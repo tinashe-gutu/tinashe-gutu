@@ -25,15 +25,15 @@ As a junior full stack developer and creator, I am constantly seeking out new op
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
     <tr>
-      <td><a href="https://pastebin-tg.netlify.app/" target="_blank"><b>Paste bin<b></a></td>
+      <td><a href="https://pastebin-tg.netlify.app/" target="_blank"><b>Paste Bin<b></a></td>
       <td><a href="https://github.com/tinashe-gutu/pastebin-frontend"><b>React, Typescript</b></a></td>
-      <td><a href="https://github.com/tinashe-gutu/pastebin-backend"><b>ExpressJS Node.JS</b></a></td>
+      <td><a href="https://github.com/tinashe-gutu/pastebin-backend"><b>ExpressJS, Node.JS</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
     <tr>
       <td><a href="https://illustrious-froyo-1c4560.netlify.app/" target="_blank"><b>Todo List App ✅<b></a></td>
       <td><a href="https://github.com/tinashe-gutu/to-do-list-frontend"><b>React, Typescript</b></a></td>
-      <td><a href="https://github.com/tinashe-gutu/to-do-list-backend"><b>Express Node.js</b></a></td>
+      <td><a href="https://github.com/tinashe-gutu/to-do-list-backend"><b>ExpressJS, Node.js</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
     <tr>
