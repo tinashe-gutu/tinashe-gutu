@@ -1,8 +1,8 @@
-# Tinashe || Full Stack Developer || Creator || Learner 
+# Tinashe || Junior Full Stack Developer
 ![](https://komarev.com/ghpvc/?username=tinashe-gutu&style=flat-square&color=blueviolet)
 
 <hr>
-As a full stack developer and creator, I am constantly seeking out new opportunities to learn and grow in the tech industry. With a few projects under my belt, I am confident in my ability to learn and adapt quickly, and am eager to continue growing and improving as a developer. My passion for technology and problem-solving drives me to stay up-to-date with the latest industry developments and seek out new challenges. I am excited to be a part of a team and contribute my skills and perspective to the success of a project.
+As a junior full stack developer and creator, I am constantly seeking out new opportunities to learn and grow in the tech industry. With a few projects under my belt, I am confident in my ability to learn and adapt quickly, and am eager to continue growing and improving as a developer. My passion for technology and problem-solving drives me to stay up-to-date with the latest industry developments and seek out new challenges. I am excited to be a part of a team and contribute my skills and perspective to the success of a project.
 
 ## 🏗️ Featured projects
 <hr>
@@ -25,8 +25,14 @@ As a full stack developer and creator, I am constantly seeking out new opportuni
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
     <tr>
+      <td><a href="https://pastebin-tg.netlify.app/" target="_blank"><b>Paste bin<b></a></td>
+      <td><a href="https://github.com/tinashe-gutu/pastebin-frontend"><b>React, Typescript</b></a></td>
+      <td><a href="https://github.com/tinashe-gutu/pastebin-backend"><b>ExpressJS Node.JS</b></a></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
+    <tr>
       <td><a href="https://illustrious-froyo-1c4560.netlify.app/" target="_blank"><b>Todo List App ✅<b></a></td>
-      <td><a href="https://github.com/tinashe-gutu/to-do-list-frontend"><b>React, TypeScript</b></a></td>
+      <td><a href="https://github.com/tinashe-gutu/to-do-list-frontend"><b>React, Typescript</b></a></td>
       <td><a href="https://github.com/tinashe-gutu/to-do-list-backend"><b>Express Node.js</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
